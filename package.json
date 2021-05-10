@@ -16,7 +16,7 @@
     "url": "https://github.com/alanbuxey/test/issues"
   },
   "dependencies": {
-    "lodash": "4.17.13"
+    "lodash": "4.17.21"
   },
   "homepage": "https://github.com/alanbuxey/test#readme"
 }
